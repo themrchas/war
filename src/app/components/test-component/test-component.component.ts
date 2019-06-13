@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ConfigProviderService } from './../../../services/config-provider.service';
+import { ConfigProviderService } from '../../services/config-provider.service';
 
 @Component({
   selector: 'app-test-component',
